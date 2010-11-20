@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+	"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.drtoast.slurp_mp3</string>
+	<key>Program</key>
+	<string>/Users/username/Music/slurp_mp3/get.rb</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>get.rb</string>
+		<string>iguessimfloating.blogspot.com</string>
+		<string>music.for-robots.com</string>
+		<string>www.fluxblog.org</string>
+		<string>gorillavsbear.blogspot.com</string>
+		<string>www.youaintnopicasso.com</string>
+		<string>www.saidthegramophone.com</string>
+	</array>
+	<key>OnDemand</key>
+    <true/>
+	<key>StartInterval</key>
+	<integer>3600</integer>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>Disabled</key>
+	<false/>
+	<!-- <key>KeepAlive</key>
+	<true/>	-->
+    <!-- <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>00</integer>
+        <key>Minute</key>
+        <integer>00</integer>
+        <key>Month</key>
+        <integer>7</integer>
+        <key>Day</key>
+        <integer>11</integer>
+        <key>Weekday</key>
+        <integer>0</integer>
+    </dict> -->
+</dict>
+</plist>
