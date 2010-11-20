@@ -1,6 +1,6 @@
 # About
 
-Just a simple script to download any new songs from your favorite MP3 blogs, once per hour.
+Just a simple script to download any new songs from your favorite MP3 blogs, once per hour, whenever you're online. Uses a sqlite3 database to keep track of what was downloaded and when, and runs in the background using Mac OS X's launchd.
 
 # Setup
     
